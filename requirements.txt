@@ -1,0 +1,6 @@
+gradio
+google-adk
+google-generativeai
+anthropic
+deep_translator 
+streamlit 
