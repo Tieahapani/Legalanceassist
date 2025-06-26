@@ -4,3 +4,4 @@ google-generativeai
 anthropic
 deep_translator 
 streamlit 
+gunicorn 
