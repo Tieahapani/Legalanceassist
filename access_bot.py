@@ -12,7 +12,6 @@ st.markdown("""
             background-color: #f0f8ff;
         }
     </style>
-    s       
     <h1 style='text-align: center; font-size: 48px;'>
         🕵️ <span style="color:#4B8BBE;">Legalance</span>
     </h1>
